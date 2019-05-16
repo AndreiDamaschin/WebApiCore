@@ -1,0 +1,42 @@
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.deps.json
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.json
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.dev.json
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.dll
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.pdb
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csprojAssemblyReference.cache
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cache
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cs
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfoInputs.cache
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfo.cs
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.dll
+C:\Users\Damaskin.IET\Desktop\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.pdb
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.deps.json
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.json
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.dev.json
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.dll
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.pdb
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csprojAssemblyReference.cache
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cache
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cs
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfoInputs.cache
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfo.cs
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.dll
+C:\Users\Damaskin.IET\Desktop\Новая папка\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.pdb
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.deps.json
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.json
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.dev.json
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.dll
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.pdb
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cache
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cs
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfoInputs.cache
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfo.cs
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.dll
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.pdb
+C:\Users\Damaskin.IET\source\repos\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csprojAssemblyReference.cache
